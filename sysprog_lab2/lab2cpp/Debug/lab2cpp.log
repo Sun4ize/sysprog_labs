@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4199: параметр /DELAYLOAD:Message.dll игнорируется; не найдены операции импорта из Message.dll
+  lab2cpp.vcxproj -> C:\Users\I\Desktop\Системное программирование\sysprog_lab2\Debug\lab2cpp.exe

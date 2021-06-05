@@ -1,0 +1,11 @@
+C:\Users\vladi\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\vladi\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+C:\Users\vladi\source\repos\lab1\ConsoleApplication1\Debug\L1c.exe
+C:\Users\vladi\source\repos\lab1\ConsoleApplication1\Debug\L1c.pdb
+C:\Users\vladi\source\repos\lab1\LAB1\Debug\L1c.exe
+C:\Users\vladi\source\repos\lab1\LAB1\Debug\L1c.pdb
+C:\Users\I\Desktop\Системное программирование\lab1\LAB1\Debug\L1c.exe
+C:\Users\I\Desktop\Системное программирование\lab1\LAB1\Debug\L1c.pdb
+C:\Users\student\Desktop\lab1\LAB1\Debug\L1c.exe
+C:\Users\student\Desktop\lab1.1\LAB1\Debug\L1c.exe
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\LAB1\Debug\L1c.exe
